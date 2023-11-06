@@ -4,15 +4,15 @@
 
 🚀 Dedicated to building a successful professional career in Software Engineering.
 
-  *✈️ Travel enthusiast.
+  - ✈️ Travel enthusiast.
 
-  *🎸 Music lover.
+  - 🎸 Music lover.
 
-  *🏒 Hockey player.
+  - 🏒 Hockey player.
+  
+🖥️ Let's code, create, and connect!
 
 ### Get in Touch
-
-🖥️ Let's code, create, and connect!
 
 📫 Reach out to me through GitHub or via email at ajan.eshwara@gmail.com.
 
